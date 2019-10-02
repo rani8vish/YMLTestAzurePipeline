@@ -1,5 +1,8 @@
 
 # Contributing
+https://dev.azure.com/ranivishwakarma/CertPrep/_apis/build/status/rani8vish.YMLTestAzurePipeline
+
+[![Build status](https://dev.azure.com/ranivishwakarma/CertPrep/_apis/build/status/rani8vish.YMLTestAzurePipeline)](https://dev.azure.com/ranivishwakarma/CertPrep/_build/latest?definitionId=24)
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
