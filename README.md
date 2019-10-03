@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/ranivishwakarma/5ce95e0d-9cd0-42ed-8b18-894f26012919/4687ca47-cc49-43ad-a433-0795c28d30b0/_apis/work/boardbadge/c80ec517-75e0-4f15-aef4-39f4b5520c8e)](https://dev.azure.com/ranivishwakarma/5ce95e0d-9cd0-42ed-8b18-894f26012919/_boards/board/t/4687ca47-cc49-43ad-a433-0795c28d30b0/Microsoft.RequirementCategory)
 
 # Contributing
 https://dev.azure.com/ranivishwakarma/CertPrep/_apis/build/status/rani8vish.YMLTestAzurePipeline
